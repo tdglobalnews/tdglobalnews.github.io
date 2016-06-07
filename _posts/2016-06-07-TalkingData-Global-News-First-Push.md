@@ -3,6 +3,7 @@ title: 2016-06-07 TalkingData Global News 首次推送
 tags: [Spark, Datameer, Pixalate, Sentiance]
 ---
 
+
 ### Datameer 重磅更新，使大数据分析更简单
 
 Datameer 6 正式发布。为提升用户体验，新版本不仅简化了前端设计，还添加了具有选择最佳处理框架功能的扩展工具。首先，用户可以在不同工作流程阶段之间进行自如切换。其次，软件智能执行技术已包涵 ApacheSpark，用户不用再纠结选择何种计算框架。
