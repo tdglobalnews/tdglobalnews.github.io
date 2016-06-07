@@ -1,0 +1,48 @@
+# user variables, change this to make custom site.
+
+name: 锐眼看世界
+desc: Global news about mobile big data industry.
+author:
+  name: tdglobal
+  avatar: 
+  profile: |
+    Mobile, Data, Value
+  socials:
+    facebook:
+    twitter: //twitter.com/TalkingData_HQ
+    google-plus:
+    github: //github.com/TalkingData
+    stack-overflow: 
+    instagram:
+    pinterest:
+    steam: 
+license: Apache License 2.0
+
+
+# theme variables, change this to make site looks best.
+baseurl: 
+paginate: 10
+
+
+# system variables, do not change unless you knew what's it does.
+paginate_path: page/:num
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+sass:
+  sass_dir: _sass
+  style: compressed
