@@ -1,5 +1,5 @@
 ---
-title: 2016-06-07 TalkingData 锐眼看世界 
+title: 2016-06-08 TalkingData 锐眼看世界 
 tags: [Spark, Datameer, Pixalate, Sentiance]
 ---
 
@@ -41,4 +41,5 @@ Datameer 6 正式发布。为提升用户体验，新版本不仅简化了前端
 <br>
 <br>
 扫描二维码关注我们的微信公众号：
-![](/images/erwei.jpg)
+
+![](/images/erweima.jpg)
