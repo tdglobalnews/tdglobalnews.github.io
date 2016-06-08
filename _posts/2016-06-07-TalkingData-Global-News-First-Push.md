@@ -8,14 +8,14 @@ tags: [Spark, Datameer, Pixalate, Sentiance]
 
 Datameer 6 正式发布。为提升用户体验，新版本不仅简化了前端设计，还添加了具有选择最佳处理框架功能的扩展工具。首先，用户可以在不同工作流程阶段之间进行自如切换。其次，软件智能执行技术已包涵 ApacheSpark，用户不用再纠结选择何种计算框架。
 
-原文链接：[Datameer gets an overhaul to make big-data analytics easier](http://www.networkworld.com/article/3074872/datameer-gets-an-overhaul-to-make-big-data-analytics-easier.html)
+原文链接：[Datameer gets an overhaul to make big-data analytics easier](http://www.tuicool.com/articles/Fj673az)
 
 <br>
 ### Spark 2.0 正酝酿出世
 
 最近，Darabricks 订阅者可以开始试用 Spark2.0 预览版。其他用户可在两三周以后进行试用。新版本有四大特性。DataFrames 和 Datasets 融合统一。全新的 `SparksessionObject` 给用户提供了统一着手点。通过结构化流，类似 `change-data-capture` 和 `update-in-place` 等流场景更易应用，速度更快且更智能。
 
-原文链接：[Spark 2.0 prepares to catch fire](http://www.infoworld.com/article/3075279/application-development/spark-20-prepares-to-catch-fire.html)
+原文链接：[Spark 2.0 prepares to catch fire](http://www.tuicool.com/articles/ZRzEjm6)
 
 <br>
 ### Pixalate 公布 2016 年 4 月全球广告商信用指数
@@ -38,6 +38,7 @@ Datameer 6 正式发布。为提升用户体验，新版本不仅简化了前端
 
 原文链接：[How AI drives the mobile contextual revolution](http://www.sentiance.com/2016/05/31/how-ai-drives-the-mobile-contextual-revolution)
 
-
+<br>
+<br>
 扫描二维码关注我们的微信公众号：
 ![](/images/erwei.jpg)
