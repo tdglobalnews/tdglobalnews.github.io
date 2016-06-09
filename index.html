@@ -11,23 +11,7 @@
     {% endif %}
   </div>
   <div class="clearfix"></div>
-  <div class="col-xs-4">
-    <div class="text-center">
-    {% if post.thumbnail %}
-      {% if post.thumbnail contains "//" %}
-        {% capture thumbnail %}{{ post.thumbnail }}{% endcapture %}
-      {% else %}
-        {% capture thumbnail %}{{ post.thumbnail | prepend: site.baseurl }}{% endcapture %}
-      {% endif %}
-      <img class="img-responsive img-rounded" src="{{ thumbnail }}">
-    {% else %}
-      <h1 class="poorman-thumbnail"
-          style="background: {% cycle 'c': "#48c", "#fa4", "#5b5", "#d54" %};">
-        {{ post.title | truncate: 1, '' }}
-      </h1>
-    {% endif %}
-    </div>
-  </div>
+
   <div class="col-xs-8">
     <p>
       {% if post.date %}

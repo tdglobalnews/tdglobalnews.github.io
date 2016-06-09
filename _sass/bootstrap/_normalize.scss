@@ -5,6 +5,9 @@
 // 2. Prevent iOS text size adjust after orientation change, without disabling
 //    user zoom.
 //
+.col-md-6 {
+    width: 75%;
+}
 
 html {
   font-family: sans-serif; // 1

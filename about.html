@@ -12,11 +12,9 @@ title: About Me
           {% else %}
             {% capture avatar %}{{ site.author.avatar | prepend: site.baseurl }}{% endcapture %}
           {% endif %}
-          <img class="img-responsive img-rounded" src="{{ avatar }}">
+          <img class="img-responsive img-rounded" src="/images/erweima.jpg">
         {% else %}
-          <h1 class="poorman-thumbnail" style="background: #48c;">
-            {{ site.author.name | truncate: 1, '' }}
-          </h1>
+          <img class="img-responsive img-rounded" src="/images/erweima.jpg">
         {% endif %}  
       </div>
       <div class="col-xs-12 text-center">

@@ -3,19 +3,20 @@ title: 2016-06-08 TalkingData 锐眼看世界
 tags: [Spark, Datameer, Pixalate, Sentiance]
 ---
 
+本期带来的是 Datameer 6 和 Spark 2.0 的最新信息；Pixalate 公布的全球广告信用指数；大数据分析最具影响的五大使用实例；以及 AI 将如何变革移动端场景感知的最新进展。
 
 ### Datameer 重磅更新，使大数据分析更简单
 
 Datameer 6 正式发布。为提升用户体验，新版本不仅简化了前端设计，还添加了具有选择最佳处理框架功能的扩展工具。首先，用户可以在不同工作流程阶段之间进行自如切换。其次，软件智能执行技术已包涵 ApacheSpark，用户不用再纠结选择何种计算框架。
 
-原文链接：[Datameer gets an overhaul to make big-data analytics easier](http://www.tuicool.com/articles/Fj673az)
+#### 原文链接：[Datameer gets an overhaul to make big-data analytics easier](http://www.tuicool.com/articles/Fj673az)
 
 <br>
 ### Spark 2.0 正酝酿出世
 
 最近，Darabricks 订阅者可以开始试用 Spark2.0 预览版。其他用户可在两三周以后进行试用。新版本有四大特性。DataFrames 和 Datasets 融合统一。全新的 `SparksessionObject` 给用户提供了统一着手点。通过结构化流，类似 `change-data-capture` 和 `update-in-place` 等流场景更易应用，速度更快且更智能。
 
-原文链接：[Spark 2.0 prepares to catch fire](http://www.tuicool.com/articles/ZRzEjm6)
+#### 原文链接：[Spark 2.0 prepares to catch fire](http://www.tuicool.com/articles/ZRzEjm6)
 
 <br>
 ### Pixalate 公布 2016 年 4 月全球广告商信用指数
@@ -29,14 +30,14 @@ Datameer 6 正式发布。为提升用户体验，新版本不仅简化了前端
 
 随着科技的发展，数据体量不断增长，企业也在尝试从这些数据中获取价值、建立优势。然而，大部分公司仍处于探索大数据应用的早期阶段。从多年的客户部署经验中，Datameer 找出了五个最具价值的大数据使用实例。
 
-原文链接：[Top Five High-Impact Use Cases for Big Data Analytics](http://www.datameer.com/pdf/eBook-Top-Five-High-Impact-UseCases-for-Big-Data-Analytics.pdf)
+#### 原文链接：[Top Five High-Impact Use Cases for Big Data Analytics](http://www.datameer.com/pdf/eBook-Top-Five-High-Impact-UseCases-for-Big-Data-Analytics.pdf)
 
 <br>
 ### Sentiance: AI 将如何变革移动端场景感知？
 
 不远的将来，智能手机将精确感知用户所处的场景，为企业提供精准的个性化投放时机。为了达到这一点，比利时公司 Sentiance 去年四月发布了 `AmbientIntelligence` 平台，利用机器学习算法预测客户在不同场景中的反应。
 
-原文链接：[How AI drives the mobile contextual revolution](http://www.sentiance.com/2016/05/31/how-ai-drives-the-mobile-contextual-revolution)
+#### 原文链接：[How AI drives the mobile contextual revolution](http://www.sentiance.com/2016/05/31/how-ai-drives-the-mobile-contextual-revolution)
 
 <br>
 <br>
