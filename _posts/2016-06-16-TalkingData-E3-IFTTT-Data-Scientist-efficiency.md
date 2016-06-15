@@ -1,5 +1,5 @@
 ---
-title: 2016-06-16 TalkingData 锐眼看世界：E3、IFTTT and Data Scientist efficiency 
+title: 2016-06-16 TalkingData 锐眼看世界：Data Scientist efficiency、E3 and IFTTT 
 tags: [E3, IFTTT, Data Scientist]
 ---
 
