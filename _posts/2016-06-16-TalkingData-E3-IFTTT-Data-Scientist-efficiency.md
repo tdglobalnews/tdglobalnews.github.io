@@ -1,6 +1,6 @@
 ---
 title: 2016-06-16 TalkingData 锐眼看世界：Data Scientist efficiency、E3 and IFTTT 
-date: 2016-06-16 0:20:01
+date: 2016-06-16 0:20:01 +08:00
 tags: [E3, IFTTT, Data Scientist]
 ---
 
