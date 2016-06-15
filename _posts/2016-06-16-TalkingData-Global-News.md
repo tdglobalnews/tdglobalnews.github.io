@@ -1,5 +1,5 @@
 ---
-title: 2016-06-16 TalkingData 锐眼看世界：E3、IFTTT 以及 Data Scientist efficiency 
+title: 2016-06-16 TalkingData 锐眼看世界：E3、IFTTT、Data Scientist efficiency 
 tags: [E3, IFTTT, Data Scientist]
 ---
 
@@ -38,4 +38,4 @@ Hadoop 已经成为通讯运营商提高业绩的重要工具。在这篇 PPT �
 <br>
 扫描二维码关注我们的微信公众号：
 
-![](https://raw.githubusercontent.com/tdglobalnews/tdglobalnews.github.io/master/images/erweima.jpg)
+![](/images/erweima.jpg)
