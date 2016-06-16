@@ -1,6 +1,6 @@
 ---
 title: 2016-06-17 TalkingData 锐眼看世界：New Apple、Samsung aquire Joyent and Podcasts about Data Science 
-date: 2016-06-17 0:20:01 +08:00
+date: 2016-06-17 0:01:01 +08:00
 tags: [Apple, Samsung, Data Science]
 ---
 
