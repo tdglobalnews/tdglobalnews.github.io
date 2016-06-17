@@ -1,8 +1,12 @@
 ---
-title: 2016-06-17 TalkingData 锐眼看世界：New Apple、Samsung aquire Joyent and Podcasts about Data Science 
+title: 2016-06-17 TalkingData 锐眼看世界：Apple、三星、Podcasts 
 date: 2016-06-17 0:01:01 +08:00
 tags: [Apple, Samsung, Data Science]
 ---
+
+Apple 在 WWDC16 上的发布表明，后乔布斯时代，Apple 终于按照库克的思路在走了；三星收购了云服务公司 Joyent；专门面向大数据从业者和数据科学家的最受欢迎的博客。
+
+<br>
 
 ### It’s Tim Cook’s Apple Now.
 
