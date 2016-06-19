@@ -50,4 +50,4 @@ tags: [AI, DL, Big Data]
 <br>
 扫描二维码关注我们的微信公众号：
 
-![](https://raw.githubusercontent.com/tdglobalnews/tdglobalnews.github.io/master/images/erweima.jpg)
+![](/images/erweima.jpg)
