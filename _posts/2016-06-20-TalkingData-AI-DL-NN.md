@@ -9,7 +9,7 @@ tags: [AI, DL, Big Data]
 
 ### Think Different: 详解苹果在 AI 个人助理领域的布局
 
-![](/images/appleai.jpg)
+![](http://i1.buimg.com/eeef731d88606610.jpg)
 
 在 AI 个人助理领域，Amazon 已经推出 Alexa，以及搭载 Alexa 的硬件设备 Echo。另一方面，谷歌在今年的 I/O 大会上也表示，将通过 app（Google Assitant, Google Now, Allo） 以及硬件 （Google Home） 进军智能助理领域。而苹果又在打着什么算盘呢？在 WWDC 16 上，苹果公布了对操作系统做出的重大更新，展示了在机器学习及智能助理领域的策略。
 
@@ -18,7 +18,7 @@ tags: [AI, DL, Big Data]
 <br>
 ### 【干货】人工智能 vs. 机器学习 vs. 深度学习，傻傻分不清楚？还不快点开原文链接！
 
-![](/images/aidl.png)
+![](http://i1.buimg.com/36e7da585edb509b.png)
 
 随着数据科学的飞速发展，大量学术热词不断涌现：机器智能（Machine Intelligence）、机器学习（Machine Learning）、深度学习（Deep Learning）。。。还在因为分不清术语概念而头疼吗？读了这篇文章，妈妈再也不用担心我不懂 Data Science。
 
@@ -38,11 +38,11 @@ tags: [AI, DL, Big Data]
 
 传统的数据处理流程：
 
-![](/images/oldp.png)
+![](http://i1.buimg.com/ad25463555d3c36f.png)
 
 大数据处理流程：
 
-![](/images/newp.png)
+![](http://i1.buimg.com/a9895514be0a03cc.png)
 
 #### 原文链接：[The Big Data Tales: Is your Data Big Enough?](http://www.platfora.com/blog-post/the-big-data-tales-is-your-data-big-enough/)
 
@@ -50,4 +50,4 @@ tags: [AI, DL, Big Data]
 <br>
 扫描二维码关注我们的微信公众号：
 
-![](/images/erweima.jpg)
+![](http://i1.buimg.com/1af49587243f643f.jpg)
