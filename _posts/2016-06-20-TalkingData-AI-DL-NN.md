@@ -6,6 +6,7 @@ tags: [AI, DL, Big Data]
 
 本期带来 Apple 在 AI 个人助理领域的布局详解；人工智能、机器学习以及深度学习之间有什么区别和联系？Big Data 时代，越多数据就越好吗？什么量级的数据才是大数据？
 
+
 ### Think Different: 详解苹果在 AI 个人助理领域的布局
 
 ![](/images/appleai.jpg)
