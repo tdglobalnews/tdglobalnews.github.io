@@ -24,6 +24,8 @@ tags: [UBI, Big Data, Amazon, Social Data]
 
 ![](http://i2.buimg.com/0250e945342c30be.png)
 
+[报告样张百度网盘下载](http://pan.baidu.com/s/1dEGm9Ap)
+
 #### 原文链接：[Automotive Usage-based Insurance (UBI) MARKET Report 2016-2026](https://www.visiongain.com/Report/1637/Automotive-Usage-Based-Insurance-(UBI)-Market-Report-2016-2026)
 
 <br>
