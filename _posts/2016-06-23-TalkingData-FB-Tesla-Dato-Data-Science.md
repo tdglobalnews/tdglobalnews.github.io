@@ -1,8 +1,10 @@
 ---
 title: 2016-06-23 TalkingData 锐眼看世界：AI、高通、Dato、Data Science 
 date: 2016-06-23 0:01:01 +08:00
-tags: [UBI, Big Data, Amazon, Social Data]
+tags: [AI, 高通, Dato, Data Science, Tesla]
 ---
+
+本期带来机器学习领域权威学者 Andrews Ng 的新书消息；OpenAI 提出的 AI 安全性讨论；高通 Snapdragon 820 处理器获得硬件安全证书以及 Dato 举办的的 Data Science 峰会 2016，文末有彩蛋。
 
 ### 人工智能权威 吴恩达 新书即将发布，现在注册送免费电子版
 
