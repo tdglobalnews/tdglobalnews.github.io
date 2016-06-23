@@ -15,6 +15,7 @@ Apple 在 WWDC16 上的发布表明，后乔布斯时代，Apple 终于按照库
 #### 原文链接：[It’s Tim Cook’s Apple Now: What WWDC 2016 Teaches Us About His Vision For The Company](http://www.fastcompany.com/3060924/wwdc/its-tim-cooks-apple-now-what-wwdc-2016-teaches-us-about-his-vision-for-the-company)
 
 <br>
+
 ### Twitter 新特性，表情符号将影响广告投放
 
 此前，Twitter 只根据用户发布内容中的关键字推送广告。而表情符号所表达的独特个人信息一直被忽略。眼下，营销人员已经盯上了用户发布的表情符号。你的每一个表情，都将影响你所看到的广告。
@@ -22,13 +23,15 @@ Apple 在 WWDC16 上的发布表明，后乔布斯时代，Apple 终于按照库
 #### 原文链接：[On Twitter, the emojis you use may affect the ads you see](https://news.fastcompany.com/tag/twitter)
 
 <br>
+
 ### 三星将收购美国云服务公司 Joyent
 
 今日，三星宣布将收购云服务供应商 Joyent，具体金额未透露。三星此次收购意在布局云计算领域，加强云相关的基础设施和服务。
 
-####原文链接：[Samsung to acquire U.S. cloud service provider Joyent](http://www.tuicool.com/articles/JFnqUjn)
+#### 原文链接：[Samsung to acquire U.S. cloud service provider Joyent](http://www.tuicool.com/articles/JFnqUjn)
 
 <br>
+
 ### 数据科学和机器学习领域十大播客
 
 是否还在苦寻优秀的播客？特此，我们为您推荐十大数据领域播客。

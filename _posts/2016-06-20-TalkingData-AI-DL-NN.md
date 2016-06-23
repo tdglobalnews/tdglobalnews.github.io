@@ -16,6 +16,7 @@ tags: [AI, DL, Big Data]
 #### 原文链接：[Think Different (Again): How Apple Plans To Compete In The AI Personal Assistant Wars](http://www.fastcompany.com/3060950/scoring-apples-progress-in-ai-personal-assistant-wars)
 
 <br>
+
 ### 【干货】人工智能 vs. 机器学习 vs. 深度学习，傻傻分不清楚？还不快点开原文链接！
 
 ![](http://i1.buimg.com/36e7da585edb509b.png)
@@ -25,13 +26,15 @@ tags: [AI, DL, Big Data]
 #### 原文链接：[A Comparative Roundup: Artificial Intelligence vs. Machine Learning vs. Deep Learning](http://www.dataversity.net/ai-vs-machine-learning-vs-deep-learning/)
 
 <br>
+
 ### 数据太多不一定是好事？
 
 美国有句俗语：“钱越多越好，人越瘦越美。”（You can't be too rich or too thin.）放在如今的商业环境下，这句话变成了“数据当然是越多越好”。然而事实真的是这样吗？
 
-####原文链接：[How Too Much Data Can Hurt Our Productivity And Decision-Making](http://www.fastcompany.com/3060945/how-too-much-data-can-hurt-our-productivity-and-decision-making)
+#### 原文链接：[How Too Much Data Can Hurt Our Productivity And Decision-Making](http://www.fastcompany.com/3060945/how-too-much-data-can-hurt-our-productivity-and-decision-making)
 
 <br>
+
 ### Platfora: 大数据菜鸟问题之 - 到底多少数据才算是“大数据”？
 
 大数据与数据体量的关系有多大？如果数据不够多，是不是就无法应用大数据技术？在解答了无数大数据菜鸟问题后，Platfora 的这篇博文为你详解大数据的真正价值所在。

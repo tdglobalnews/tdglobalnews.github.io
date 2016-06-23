@@ -16,6 +16,7 @@ tags: [UBI, Big Data, Amazon, Social Data]
 #### 原文链接：[Usage-based Insurance: A triple win for industry, consumers and society](http://insuranceblog.accenture.com/usage-based-insurance-a-triple-win-for-industry-consumers-society)
 
 <br>
+
 ### UBI 车险市场报告2016-2026
 
 报告重点关注全球UBI业内领先企业的远程信息解决方案，分析和预测了车载黑匣子、OBD-II Dongle、手机、混合设备等的开发情况。
@@ -29,13 +30,15 @@ tags: [UBI, Big Data, Amazon, Social Data]
 #### 原文链接：[Automotive Usage-based Insurance (UBI) MARKET Report 2016-2026](https://www.visiongain.com/Report/1637/Automotive-Usage-Based-Insurance-(UBI)-Market-Report-2016-2026)
 
 <br>
+
 ### Yahoo 如何帮助电信运营商变现数据？
 
 美国两大运营商 AT&T 和 Verizon 正在积极竞购 Yahoo。 消息称，Yahoo 的技术将帮助电信运营商变现数据。通过通话追踪系统，运营商就可将位置信息和个人住址信息相结合，再与人群信息，消费者购买信息混合，产生有商业价值的数据。
 
-####原文链接：[How Yahoo Could Help Verizon Or AT&T Monetize Their Data](http://adage.com/article/datadriven-marketing/yahoo-verizon-t-monetize-data/304304/)
+#### 原文链接：[How Yahoo Could Help Verizon Or AT&T Monetize Their Data](http://adage.com/article/datadriven-marketing/yahoo-verizon-t-monetize-data/304304/)
 
 <br>
+
 ### 亚马逊正在教 Alexa 辨识情绪
 
 目前，智能语音助手常常误解人们的话语。在不久的将来，虽然它们仍无法完全明白你说的话，不过将至少听懂你的愤怒，然后乖乖道歉。Amazon 正在研发的自然语言处理算法将教会 Alexa 感知人们说话时的情绪。
@@ -43,6 +46,7 @@ tags: [UBI, Big Data, Amazon, Social Data]
 #### 原文链接：[Amazon Working On Making Alexa Recognize Your Emotions](https://www.technologyreview.com/s/601654/amazon-working-on-making-alexa-recognize-your-emotions/)
 
 <br>
+
 ### 社交媒体算法将有能力预测恐怖袭击？
 
 近日，Science 杂志刊登了一项新研究结果。研究者深入分析了恐怖分子和其他团体如何通过社交媒体组织运营。通过分析这些数据，研究者开发了一套算法，用来预测这些团体的行为。

@@ -35,6 +35,7 @@ tags: [codecon, Google]
 中文译文：[重磅 | 2016 Code大会精彩回顾：世界顶级CEO汇聚一堂，描绘机器智能宏伟蓝图](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650715947&idx=1&sn=4351743fd6cfd86af1c5eeb9c3ac7ec2)
 
 <br>
+
 ### Nearby：发现身边事物的新方式 
 
 Google 推出了让用户在正确的时间和地点发现正确的应用和服务的新功能：Nearby。

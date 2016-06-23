@@ -10,6 +10,7 @@ Facebook AI 实验室负责人 Yann LeCun，Founders Fund 联合创始人 Luke N
 #### 原文链接：[What’s Next for Artificial Intelligence](http://www.tuicool.com/articles/2uq6Rv2)
 
 <br>
+
 ### 苹果公布差分隐私技术：隐私保护和机器学习的里程碑？
 
 隐私保护一直是数据应用领域中饱受争议的问题，如何在保护用户隐私的前提下，增加新的个性化功能？为了解决这个问题，苹果前天在WWDC上推出了差分隐私 (Differential Privacy) 技术。

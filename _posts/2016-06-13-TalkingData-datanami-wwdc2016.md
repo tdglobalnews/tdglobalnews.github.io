@@ -16,6 +16,7 @@ tags: [Datanami, Apple, WWDC 2016]
 #### 原文链接：[Why Self-Service Prep Is a Killer App for Big Data](http://www.datanami.com/2016/05/31/self-service-prep-killer-app-big-data/)
 
 <br>
+
 ### 苹果开发者大会 WWDC 2016 (6/13-6/17) 今天开幕
 
 ![](/images/wwdc2016now.png)

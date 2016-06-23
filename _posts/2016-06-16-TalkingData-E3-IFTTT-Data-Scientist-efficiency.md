@@ -11,6 +11,7 @@ tags: [E3, IFTTT, Data Scientist]
 #### 原文链接：[Data Engineering Teams Waste Time & Resources due to Poor Knowledge of Data Usage](https://alation.com/blog/2016/04/26/data-engineering-teams-waste-time-resources-due-to-poor-knowledge-of-data-usage/)
 
 <br>
+
 ### 通讯运营商如何用大数据获利？
 
 Hadoop 已经成为通讯运营商提高业绩的重要工具。在这篇 PPT 中，作者为大家讲解 Hadoop 以及数据湖（Data Lake）的商业价值，以及 21 个 Hadoop 在通讯公司的使用案例。
@@ -18,6 +19,7 @@ Hadoop 已经成为通讯运营商提高业绩的重要工具。在这篇 PPT �
 #### 原文链接：[Monetizing Big Data at Telecom Service Providers](http://www.slideshare.net/Hadoop_Summit/monitizing-big-data-at-telecom-service-providers-33919438)
 
 <br>
+
 ### E3 游戏展带来五大重磅新闻
 
  1. PlayStation VR 确定发行时间：10 月 13 日。
@@ -29,6 +31,7 @@ Hadoop 已经成为通讯运营商提高业绩的重要工具。在这篇 PPT �
 #### 原文链接：[The 5 biggest gaming announcements from E3](https://news.fastcompany.com/the-5-biggest-gaming-announcements-from-e3-4010550)
 
 <br>
+
 ### 最高效的工具 App - If This Then That (IFTTT)
 
 这个 App 有个直白搞笑的名字，却做着严肃认真的事情。IFTTT 可以完美自动化你的智能手机。首先，设置一个事件触发条件，例如某个时间、某种天气、甚至某人新发 Twitter，接着设置事件本身，例如发一封邮件、发一条朋友圈、或是打开手机的手电。在达到你设定的条件时，手机就会自动做那件事情。

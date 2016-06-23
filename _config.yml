@@ -22,7 +22,7 @@ license: Apache License 2.0
 # theme variables, change this to make site looks best.
 baseurl: 
 paginate: 10
-
+gems: [jekyll-paginate]
 
 # system variables, do not change unless you knew what's it does.
 paginate_path: page/:num
