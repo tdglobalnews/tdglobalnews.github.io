@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 ---
 title: 2016-06-27 TalkingData 锐眼看世界：NEWZOO、Data Science Ethical Frame、Data Visualizations
 date: 2016-06-27 0:01:01 +08:00
-=======
-﻿---
-title: 2016-06-26 TalkingData 锐眼看世界：NEWZOO、Data Science Ethical Frame、Data Visualizations
-date: 2016-06-26 0:01:01 +08:00
->>>>>>> b2f26762008dc110c87f69e5faf8e287961b94bc
-tags: [NEWZOO, Ethical Frame, Data Visualizations, Data Science]
 ---
 
 本期带来 NEWZOO 中文网页介绍；英国推出数据科学道德框架；数据可视化如何帮助企业成长；7大数据科学前沿简报；使用Python学习数据科学完整教程。
