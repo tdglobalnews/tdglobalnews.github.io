@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ---
 title: 2016-06-27 TalkingData 锐眼看世界：NEWZOO、Data Science Ethical Frame、Data Visualizations
 date: 2016-06-27 0:01:01 +08:00
+=======
+﻿---
+title: 2016-06-26 TalkingData 锐眼看世界：NEWZOO、Data Science Ethical Frame、Data Visualizations
+date: 2016-06-26 0:01:01 +08:00
+>>>>>>> b2f26762008dc110c87f69e5faf8e287961b94bc
 tags: [NEWZOO, Ethical Frame, Data Visualizations, Data Science]
 ---
 
