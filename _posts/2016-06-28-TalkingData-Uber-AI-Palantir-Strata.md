@@ -1,6 +1,6 @@
 ---
 title: 2016-06-28 TalkingData 锐眼看世界：Uber、AI、Palantir、Strata、Dataiku
-date: 2016-06-28 0:01:01 +08:00
+date: 2016-06-27 0:01:01 +08:00
 tags: [Uber, AI, Palantir, Strata, Dataiku]
 ---
 
