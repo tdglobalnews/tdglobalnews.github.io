@@ -26,7 +26,7 @@ tags: [NEWZOO, Ethical Frame, Data Visualizations, Data Science]
 
 ### 【观点】数据可视化如何帮助企业成长？
 
-InMobi 未经用户许可，通过WiFi地址收集关联用户位置信息而被上诉。事后，InMobi 同意将向美联邦贸易委员会支付 95 万美元罚金以解决这次纠纷。在美国，通过 WiFi 构建设备位置数据网似乎已经遇到了监管障碍。
+当今，企业若要生存，必须通过收集数据并基于数据进行理性决策。BI dashboard 作为一种数据可视化工具可以实时展现企业运营情况，从而帮助管理层决策。本文从七个方面详细阐述了数据可视化工具的功能。
 
 #### 原文链接：[How Data Visualizations Impact Business Growth](https://www.import.io/post/how-data-visualizations-can-impact-business-growth/)
 
