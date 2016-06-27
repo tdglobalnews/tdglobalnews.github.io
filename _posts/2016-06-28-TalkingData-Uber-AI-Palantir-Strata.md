@@ -28,7 +28,7 @@ A16Z 合伙人 Benedict Evans 通过对比 Google 和苹果运用 AI 的做法�
 
 ### 【新闻】Palantir 离上市可能不远了
 
-“黑科技”、“情报机构”、“独角兽”是人们常给 Palantir 贴上的标签。成立 12 年以来，Palantir 股指已经超过 200 亿美元，而由于其工作内容的敏感性，这家公司很少公开自己的信息，其上市计划更是无从得知。在这篇博文中，TechCrunch 为你解说 Palantir 最近露出的上市“马脚”。
+“黑科技”、“情报机构”、“独角兽”是人们常给 Palantir 贴上的标签。成立 12 年以来，Palantir 估值已经超过 200 亿美元，而由于其工作内容的敏感性，这家公司很少公开自己的信息，其上市计划更是无从得知。在这篇博文中，TechCrunch 为你解说 Palantir 最近露出的上市“马脚”。
 
 #### 原文链接：[Why a Palantir IPO might not be far off](https://techcrunch.com/2016/06/24/why-a-palantir-ipo-might-not-be-far-off/)
 
