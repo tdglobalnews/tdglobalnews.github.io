@@ -1,4 +1,4 @@
-# user variables, change this to make custom site.
+﻿# user variables, change this to make custom site.
 
 name: 锐眼看世界
 desc: Global news about mobile big data industry.
@@ -23,6 +23,7 @@ license: Apache License 2.0
 baseurl: 
 paginate: 10
 gems: [jekyll-paginate]
+port: 8864
 
 # system variables, do not change unless you knew what's it does.
 paginate_path: page/:num
