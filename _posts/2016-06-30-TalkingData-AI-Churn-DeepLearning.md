@@ -1,6 +1,6 @@
 ---
 title: 2016-06-30 TalkingData 锐眼看世界：AI、客户流失率、深度学习
-date: 2016-06-29 23:00:00 +08:00
+date: 2016-06-29 23:00:01 +08:00
 tags: [AI, Deep Learning, Churn]
 ---
 
