@@ -4,7 +4,7 @@ date: 2016-06-29 23:00:01 +08:00
 tags: [AI, Deep Learning, Churn]
 ---
 
-本期带来会记账的 AI；能上诉发单的聊天机器人律师；纳德拉对人与 AI 合作方式的见解；Dataiku 客户流失率分析；以及 OpenPOWER 开放多个深度学习框架。
+本期带来会记账的 AI；能上诉罚单的聊天机器人律师；纳德拉对人与 AI 合作方式的见解；Dataiku 客户流失率分析；以及 OpenPOWER 开放多个深度学习框架。
 
 ### 【精选】再见，会计师！创业公司发明了会记账的 AI
 
@@ -34,7 +34,7 @@ tags: [AI, Deep Learning, Churn]
 
 <br>
 
-### 【见解】纳德拉：人类未来的伙伴
+### 【见解】纳德拉：AI 是人类未来的伙伴
 
 ![](http://i4.piimg.com/567416/e4a834e9683b29e2t.jpg)
 
@@ -46,7 +46,7 @@ tags: [AI, Deep Learning, Churn]
 
 ### 【干货】客户流失率分析：数据科学将成为营销团队最有力的工具
 
-在这篇博文中，Dataiku 数据科学家 Pierre Gutierrez 介绍了如何通过数据科学与营销团队的合作，分析客户流失率，帮助企业留住客户。
+在这篇博文中，Dataiku 数据科学家 Pierre Gutierrez 介绍了如何通过数据科学团队与营销团队的合作，分析客户流失率，帮助企业留住客户。
 
 #### 原文链接：[Churn Analytics or How Data Science Will Become Your Marketing Team's Best Friend](http://www.dataiku.com/blog/2016/06/23/churn-analytics-marketing-team-best-friend.html)
 
