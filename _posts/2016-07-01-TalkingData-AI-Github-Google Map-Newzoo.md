@@ -19,7 +19,7 @@ tags: [AI, Github, Google Map, Newzoo]
 Alpha空战智能的出现除了实现零伤亡战争外，更重要的是解放了战机性能发展的瓶颈(不需要考虑人的生理极限)，无人智能战机将成为统治天空的霸主。同时Alpha惊人低的硬件成本，似乎足以让AlphaGo汗颜。不过Alpha处理的是战术层面的问题，能量机动理论出现以来的空战战术问题都是能够比较好的进行定量分析的。而AlphaGo处理的是战略问题，其复杂性更高。在人工智能无法解决战争中的战略问题前，战术人工智能如何配合战略人工智能可能也是个课题。
 
 
-#### 原文链接：[GitHub releases data on 2.8 million open source repositories through Google BigQuery](http://venturebeat.com/2016/06/29/github-releases-data-on-2-8-million-open-source-repositories-through-google-bigquery/)
+#### 原文链接：[Beyond video games: New artificial intelligence beats tactical experts in combat simulation](http://magazine.uc.edu/editors_picks/recent_features/alpha.html)
 
 <br>
 
@@ -47,7 +47,7 @@ GitHub今天宣布将280万源代码库开放出来，使得人们可以用基�
 
 <br>
 
-### 【观点】Newzoo 和 Pushwood达成合作，为12亿移动设备提供智能服务
+### 【动态】Newzoo 和 Pushwood达成合作，为12亿移动设备提供智能服务
 
 Newzoo今日宣布和Pushwood达成战略合作。Pushwood是一家创新型跨平台推送服务平台，每月为12亿手机和平板电脑提供超100亿推送。Pushwood将成为Newzoo重要的全球数据伙伴。两者的合作将集中于以200多国家移动设备使用情况为基础的洞察。
 
