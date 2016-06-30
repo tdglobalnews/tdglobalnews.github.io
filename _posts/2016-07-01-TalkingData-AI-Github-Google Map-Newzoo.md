@@ -1,10 +1,10 @@
 ---
-title: 2016-07-01 TalkingData 锐眼看世界：AI、Github、谷歌地图、Newzoo
+title: 2016-07-01 TalkingData 锐眼看世界：AI、Github、谷歌地图、Newzoo、Android Nougat
 date: 2016-06-30 23:00:01 +08:00
-tags: [AI, Github, Google Map, Newzoo]
+tags: [AI, Github, Google Map, Newzoo,Android Nougat]
 ---
 
-本期带来空战人工智能；Github开放源代码库；谷歌地图新增多目的地查询功能；Newzoo和Pushwood战略合作等内容。
+本期带来空战人工智能；Github开放源代码库；谷歌地图新增多目的地查询功能；Newzoo和Pushwood战略合作,Android Nougat等内容。
 
 ### 【新闻】35美元芯片上的人工智能竟可以打败Top Gun!
 
@@ -51,11 +51,17 @@ GitHub今天宣布将280万源代码库开放出来，使得人们可以用基�
 
 Newzoo今日宣布和Pushwood达成战略合作。Pushwood是一家创新型跨平台推送服务平台，每月为12亿手机和平板电脑提供超100亿推送。Pushwood将成为Newzoo重要的全球数据伙伴。两者的合作将集中于以200多国家移动设备使用情况为基础的洞察。
 
-#### 原文链接：[Push and Newzoo to provide mobile intelligence on 1.2 billion devices](https://newzoo.com/news/pushwoosh-newzoo-partner-to-provide-mobile-device-intelligence/)
+#### 原文链接：[Pushwood and Newzoo to provide mobile intelligence on 1.2 billion devices](https://newzoo.com/news/pushwoosh-newzoo-partner-to-provide-mobile-device-intelligence/)
 
 <br>
 
+### 【快讯】Android N正式定名为Android Nougat（牛轧糖）
 
+谷歌正式宣布将 Android N 定名为 Android Nougat. 五月I/O 发布会后，谷歌向用户征集Android N代号，最终简短易识别的牛轧糖被选中。此新版本包含了新一代分屏多任务和Daydream(VR 平台)等特性。
+
+#### 原文链接：[Android N正式定名Android Nougat(牛轧糖)](http://www.theverge.com/2016/6/30/12067774/android-n-is-now-android-nougat)
+
+<br>
 
 扫描二维码关注我们的微信公众号：
 
