@@ -8,7 +8,7 @@ tags: [AI, Github, Google Map, Newzoo,Android Nougat]
 
 ### 【新闻】35美元芯片上的人工智能竟可以打败Top Gun!
 
-![](http://i4.piimg.com/567952/51e69c188e55d9e8.jpg)
+![](http://i1.piimg.com/567952/ca26f0282688a3ca.png)
 
 最近美国辛辛那提大学官网上公布了一个重磅消息:该校博士Nick Ernest任CEO的Psibernetix公司研发出了空战人工智能Alpha。该人工智能在一系列模拟空战中打败了美国空军退役空战战术专家Gene Lee上校。Lee上校认为Alpha是目前最先进的空战人工智能，远远超过美军目前在模拟训练中使用的那些空战人工智能。而且，即使将Alpha驾驶的战机的速度，转弯，导弹射程和雷达系统设定得比飞行员的战机差，也不能阻止Alpha获胜。更令人吃惊的是Alpha仅仅使用了一块市场售价35美元的处理器(Raspberry Pi)。Alpha的核心技术采用的是基于语言的控制方法。Ernest创造了一个名为“Genetic Fuzzy Tree” 的模糊逻辑控制算法，在取得高性能的同时仅需要很少的计算量，使得Alpha在空战中的应变速度超过飞行员250倍。
 
@@ -41,7 +41,7 @@ GitHub今天宣布将280万源代码库开放出来，使得人们可以用基�
 
 地图APP已经是每个人日常生活中必备的手机应用。从A地到B地，手机地图可以告诉我们沿途的餐厅，附近的加油站。那如果我们还需沿途经过C地呢？终于，安卓版手机地图实现了多目的地查询功能。
 
-![](http://i4.piimg.com/567952/30064bad5d9d347d.png)
+![](http://i1.piimg.com/567952/8c937b88cadcfbcf.png)
 
 #### 原文链接：[Google Maps on mobile is adding support for multiple destinations](http://www.theverge.com/2016/6/29/12060682/google-maps-android-app-multiple-destinations?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter)
 
