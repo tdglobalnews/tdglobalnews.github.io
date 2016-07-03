@@ -22,6 +22,8 @@ tags: [AI, Github, Google Map, Newzoo,Android Nougat]
 
 > Alpha 空战智能的出现除了实现零伤亡战争外，更重要的是解放了战机性能发展的瓶颈(不需要考虑人的生理极限)，无人智能战机将成为统治天空的霸主。同时 Alpha 惊人低的硬件成本，似乎足以让 AlphaGo 汗颜。不过 Alpha 处理的是战术层面的问题，能量机动理论出现以来的空战战术问题都是能够比较好的进行定量分析的。而 AlphaGo 处理的是战略问题，其复杂性更高。在人工智能无法解决战争中的战略问题前，战术人工智能如何配合战略人工智能可能也是个课题。
 
+<br>
+
 ### Github 开放 280 万源代码库数据
 
 ##### 原文链接：[GitHub releases data on 2.8 million open source repositories through Google BigQuery](http://venturebeat.com/2016/06/29/github-releases-data-on-2-8-million-open-source-repositories-through-google-bigquery/)
@@ -31,6 +33,8 @@ GitHub 今天宣布将 280 万源代码库开放出来，使得人们可以用�
 ##### TD 锐评
 
 > 通过海量代码库，程序员们可以分析各种技术的趋势，从而方便为自己的未来更好地做规划。更进一步，如果加上机器学习和AI，可以通过使用这些海量代码来训练自动写程序的智能机器人。未来失业的会不会是程序猿呢？
+
+<br>
 
 ### 谷歌地图APP版新添多目的地查询
 
@@ -49,6 +53,8 @@ GitHub 今天宣布将 280 万源代码库开放出来，使得人们可以用�
 ##### 原文链接：[Android N正式定名Android Nougat(牛轧糖)](http://www.theverge.com/2016/6/30/12067774/android-n-is-now-android-nougat)
 
 谷歌正式宣布将 Android N 定名为 Android Nougat. 五月 I/O 发布会后，谷歌向用户征集 Android N 代号，最终简短易识别的牛轧糖被选中。此新版本包含了新一代分屏多任务和 Daydream (VR 平台)等特性。
+
+<br>
 
 ### Newzoo 和 Pushwood达成合作，为12亿移动设备提供智能服务
 
