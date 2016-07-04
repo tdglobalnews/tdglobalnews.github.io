@@ -14,7 +14,7 @@ tags: [self-learning, Inmobi, Intelligent Crowdsourcing, Big Data,]
 
 ##### 原文链接：[The rise of self-learning software](http://www.recode.net/2016/6/29/12045632/self-learning-software-enterprise-predictive-big-data-net-intelligence)
 
-![](http://i4.piimg.com/567952/53a450c8a7c9de82.png)
+![](http://i2.piimg.com/567952/0f09cd5273ae881f.png)
 
 自学习软件诞生于大数据创新，并将占据新的网络智能层。它将会对企业各个部分的生产率产生重大影响。企业软件从部署软件时代已逐步走到今天的 SaaS 时代，而未来的企业软件市场将是 SLS (Self Learning Software) 的天下。SLS 是注入了机器学习技术的企业软件，它能够完成机械性的或可预见性的任务。SLS 可以自动替你完成这些任务，或者只需要你简单的参与几个步骤来完成这些工作。想象一下，5分钟后有个会议。你的智能手表不需提示就能自动将提要发送给你。在这个会议上，你记下了笔记。系统立即理解了你的笔记，然后再与之前的相关会议，文件和通讯记录进行比对，就为你下一场会议做好了准备。
 部署软件时代的巨头是 SAP, Oracle, IBM 这些巨头，SaaS 时代的大玩家是 Workday, Salesforce 和 NetSuite，而 SLS 时代的巨人将会是 Google, Facebook, Apple 等公司或者是从这些公司出来的创业者创立的新公司。因为用户体验和机器学习是这些公司天生的DNA中的一部分。
