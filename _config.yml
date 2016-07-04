@@ -20,7 +20,8 @@ license: Apache License 2.0
 
 
 # theme variables, change this to make site looks best.
-baseurl: 
+production_url : http://tdglobalnews.github.io/
+baseurl:
 paginate: 10
 gems: [jekyll-paginate]
 port: 8864

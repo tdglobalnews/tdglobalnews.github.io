@@ -1,6 +1,6 @@
 ---
 title: 2016-07-05 TalkingData 锐眼看世界：十年内企业应用都将以自学习为内核
-date: 2016-07-04 23:00:01 +08:00
+date: 2016-07-05 01:00:01 +08:00
 tags: [self-learning, Inmobi, Intelligent Crowdsourcing, Big Data,]
 ---
 

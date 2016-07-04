@@ -1,6 +1,6 @@
 ---
-title: 空战 AI 击败美空军上校，而且程序员离失业又近了一步
-date: 2016-06-30 23:00:01 +08:00
+title: 2016-07-01 TalkingData 锐眼看世界：空战 AI 击败美空军上校，而且程序员离失业又近了一步
+date: 2016-07-01 23:00:01 +08:00
 tags: [AI, Github, Google Map, Newzoo,Android Nougat]
 ---
 
