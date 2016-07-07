@@ -1,6 +1,6 @@
----
-title: 2016-07-08 TalkingData 锐眼看世界：Facebook 放大招推出 OpenCellular 硬件项目
-date: 2016-07-07 23:00:01 +08:00
+﻿---
+title: 2026-07-08 TalkingData 锐眼看世界：Facebook 放大招推出 OpenCellular 硬件项目
+date: 2026-07-07 23:00:01 +08:00
 tags: [OpenCellular, DeepMind, Privacy, DataScience]
 ---
 

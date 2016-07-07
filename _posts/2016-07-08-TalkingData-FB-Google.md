@@ -14,7 +14,7 @@ tags: [OpenCellular, DeepMind, Privacy, DataScience]
 
 ##### 原文链接：[Introducing OpenCellular: An open source wireless access platform](http://www.tuicool.com/articles/N3qMRvB)
 
-![](http://i1.piimg.com/567952/d488f3854c057be2.jpg)
+![](http://i2.piimg.com/567952/e992b6fe6816ff0f.jpg)
 
 OpenCellular 是什么？是Facebook 新打造的多用途开源基站平台，将改善全球偏远地区互联网连接不畅问题。硬件设计、必要固件及控制软件开放后，电信运营商、OEM、研究人员、创业者等都能够部署和运营基于该平台的无线基础设施。如此看来，Facebook 离实现30亿互联网连接大业又进了一步。将来，可能真的每根电线杆上都会绑着 Facebook WiFi 热点！
 
@@ -42,7 +42,7 @@ Google DeepMind 宣布正与英国国家健康中心（NHS）合作研究如何�
 
 ##### 原文链接：[Statistics is Dead – Long Live Data Science](http://www.datasciencecentral.com/profiles/blogs/statistics-is-dead-long-live-data-science?overrideMobileRedirect=1)
 
-![](http://i2.piimg.com/567952/062d8924c919340b.png)
+![](http://i2.piimg.com/567952/0a0b63c5b895e831.png)
 
 统计学主要应用于量化数据中的不确定性。数据科学专注于从数据挖掘价值，横跨数学，统计学，人工智能，编程，视觉化处理，图像分析等多个领域。统计学的发展似乎远远落后于数据科学革命，自动化统计学工具了了无几，而视觉化工具预测工具则层出不穷。但是，除去工具，数据科学家真正动手做的事儿好像只剩下统计数据了。那么统计学是否会被取代，你觉得呢？
 
