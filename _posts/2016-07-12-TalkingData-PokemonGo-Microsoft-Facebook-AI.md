@@ -32,7 +32,7 @@ tags: [Pokemon Go, Microsoft, Facebook, AI]
 
 ##### 原文链接：[Seven ways facebook’s big algorithm change will affect marketers and publishers](http://www.fastcompany.com/3061481/seven-ways-facebooks-big-algorithm-change-will-affect-marketers-and-publishers)
 
-Facebook 今日宣布正在调整信息流算法，将减少内容主页流量推送。为突出社交属性，来自亲朋好友的帖子将被优先推送，其次才是品牌宣传类内容。目前，还很难评估发行商会损失多少流量。不过可以肯定的是，广告推投放费肯定得上涨。
+Facebook 今日宣布正在调整信息流算法，将减少内容主页流量推送。为突出社交属性，来自亲朋好友的帖子将被优先推送，其次才是品牌宣传类内容。目前，还很难评估发行商会损失多少流量。不过可以肯定的是，广告投放费肯定得上涨。
 
 <br>
 
@@ -42,7 +42,7 @@ Facebook 今日宣布正在调整信息流算法，将减少内容主页流量�
 
 ##### 原文链接：[Key trends in machine learning and AI](https://techcrunch.com/2016/07/06/key-trends-in-machine-learning-and-ai/)
 
-近半年以来，笔者接触的100家初创公司中，有90多家公司已计划运用机器学习优化客户体验。人工智能趋势锐不可当，每个应用程序都将是“智能”的。其次，微智能（micro-intelligence）和中间件创新(middle-ware services)将推动智能 App 革新。 再者，信任和透明度是支撑人工智能世界的核心。
+近半年以来，笔者接触的100家初创公司中，有90多家公司已计划运用机器学习优化客户体验。人工智能趋势锐不可当，每个应用程序都将是“智能”的。其次，微智能（micro-intelligence）和中间件创新 (middle-ware services) 将推动智能 App 革新。 再者，笔者认为信任和透明度是支撑人工智能世界的核心。
 
 <br>
 
