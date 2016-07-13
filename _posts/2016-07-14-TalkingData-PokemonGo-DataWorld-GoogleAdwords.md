@@ -34,7 +34,7 @@ tags: [Pokemon Go, Data.World, Google Adwords]
 
 ##### 原文链接：[Making Travel and Shopping Easier for the Seasons Ahead](https://adwords.googleblog.com/2016/07/making-travel-and-shopping-easier-for.html)
 
-虽然才7月，不过商家们已开始为年底传统购物季做准备了。Google Adward 今日上线新功能，将助商家们一臂之力。当用户模糊搜索“连衣裙”，图片陈列广告（Showcase Ads）会在页面顶部浮现，滚动展示商家商品图片。同时，Youtube广告投放也新增两大功能。视频窗口旁已新增交互横幅广告，如此一来观众可以一边观看视频一边滚动翻看广告。另外，商家可以自由选择何种视频搭配何种广告。
+虽然才7月，不过商家们已开始为年底传统购物季做准备了。Google Adwords 今日上线新功能，将助商家们一臂之力。当用户模糊搜索“连衣裙”，图片陈列广告（Showcase Ads）会在页面顶部浮现，滚动展示商家商品图片。同时，Youtube广告投放也新增两大功能。视频窗口旁已新增交互横幅广告，如此一来观众可以一边观看视频一边滚动翻看广告。另外，商家可以自由选择何种视频搭配何种广告。
 
 <br>
 
