@@ -43,7 +43,3 @@ Facebook 今日宣布正在调整信息流算法，将减少内容主页流量�
 ##### 原文链接：[Key trends in machine learning and AI](https://techcrunch.com/2016/07/06/key-trends-in-machine-learning-and-ai/)
 
 近半年以来，笔者接触的100家初创公司中，有90多家公司已计划运用机器学习优化客户体验。人工智能趋势锐不可当，每个应用程序都将是“智能”的。其次，微智能（micro-intelligence）和中间件创新 (middle-ware services) 将推动智能 App 革新。 再者，笔者认为信任和透明度是支撑人工智能世界的核心。
-
-<br>
-
-
