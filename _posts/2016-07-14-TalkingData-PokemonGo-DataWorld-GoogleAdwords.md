@@ -22,8 +22,6 @@ tags: [Pokemon Go, Data.World, Google Adwords]
 
 ### 数据极客的“社交网络”  Data.World 获 1400万美元 A轮融资
 
-![](http://i4.piimg.com/567952/d1fb6a4cd4194c12.png)
-
 ##### 原文链接：[Data.World Aims To Be The Social Network For Data Nerds](https://www.fastcompany.com/3061712/dataworld-aims-to-be-the-social-network-for-data-nerds)
 
 数据极客也将拥有自己的社交网络了！隐身运行多月后，Data.World 正式走进大众视野，定为为公益机构。公司致力于搭建全球最丰富数据资源协作平台。数据极客们包括科学家、分析师和研究人员，将能够在 Data.World平台上即刻查找、使用和共享数据。目前，平台开放数据集超过 1800万，是谷歌网站推出数量的7倍。
