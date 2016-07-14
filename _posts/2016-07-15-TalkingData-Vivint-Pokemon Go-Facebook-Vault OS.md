@@ -16,6 +16,8 @@ tags: [Genie, Pokemon Go, Facebook, Vault OS]
 
 上个月，Genie 认知计算工厂正式发布。Genie 是 “General Evolving Networked Intelligence Engine”的缩写，不管是 AI 专家还是菜鸟，都可以很容易的用 Genie 创造 AI 助理，用于大数据分析、物体识别、数据分类，等等。这篇博文将教会你如何使用 Genie 来分析 P2P 贷款数据。
 
+<br>
+
 ## 业界新闻
 
 ### Pokemon Go 将在地图上投放广告，或开启广告业新模式
