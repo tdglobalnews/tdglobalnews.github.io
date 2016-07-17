@@ -26,7 +26,7 @@ tags: [数据质量, AI, Google, KAKU]
 
 ![](http://i1.piimg.com/567952/ab7ae5aa38612048.jpg)
 
-科技巨头们正竞相收购AI初创公司。上月 Twitter 以1.5亿美元高价收购了AI 视觉搜索公司 Magic Pony。平均每位员工的价值超过1000美元，算下来，杰出AI工程师的身价比许多CEO高得多！科技界普遍认为AI将会颠覆大部分经济。然而狂热中，也有声音指出“AI的真是普及程度和应用速度远远落后于业界的期望”。
+科技巨头们正竞相收购AI初创公司。上月 Twitter 以1.5亿美元高价收购了AI 视觉搜索公司 Magic Pony。平均每位员工的价值超过1000美元，算下来，杰出AI工程师的身价比许多CEO高得多！科技界普遍认为AI将会颠覆大部分经济。然而狂热中，也有声音指出“AI的真实普及程度和应用速度远远落后于业界的期望”。
 
 <br>
 
@@ -37,7 +37,7 @@ tags: [数据质量, AI, Google, KAKU]
 ##### 原文链接：[Report: Google cancelled its Oculus Rift/HTC Vive competitor](http://www.androidauthority.com/report-google-cancelled-oculus-rifthtc-vive-competitor-703526/)
 
 
-据知情人士称，谷歌内部意在与Oculus和HTC Vive竞争的高端VR头显研发计划已暂停。取而代之的是，谷歌决定另辟蹊径把精力投入 Daydream 项目，为智能手机应用、游戏和服务搭建移动VR平台。同时，谷歌可能也正在为VR设计全新的独立系统。
+据知情人士称，谷歌内部意在与 Oculus 和 HTC Vive 竞争的高端VR头显研发计划已暂停。取而代之的是，谷歌决定另辟蹊径把精力投入 Daydream 项目，为智能手机应用、游戏和服务搭建移动VR平台。同时，谷歌可能也正在为VR设计全新的独立系统。
 
 <br>
 
