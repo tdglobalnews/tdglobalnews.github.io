@@ -1,20 +1,20 @@
 ---
-title: 2016-07-22 TalkingData 锐眼看世界：特普朗竞选中的第三方数据工具- HaystaqDNA
+title: 2016-07-22 TalkingData 锐眼看世界：特朗普竞选中的第三方数据工具- HaystaqDNA
 date: 2016-07-21 23:00:01 +08:00
 tags: [Digital Politics, DeepMind, Tesla, Health Data]
 ---
 
-锐眼视点：特普朗竞选中的第三方数据工具-HaystaqDNA；DeepMind人工智能技术 帮助谷歌数据中心节能 40%；特斯拉新蓝图；必须尽快停止健康数据私有化。
+锐眼视点：特朗普竞选中的第三方数据工具-HaystaqDNA；DeepMind人工智能技术 帮助谷歌数据中心节能 40%；特斯拉新蓝图；必须尽快停止健康数据私有化。
 
 ## TD 精选
 
-### 特普朗竞选中的第三方数据工具-HaystaqDNA
+### 特朗普竞选中的第三方数据工具-HaystaqDNA
 
 ##### 原文链接：[Data tools of Obama veterans aiding Trump campaign](http://www.politico.com/story/2016/07/obama-veterans-software-aiding-trump-campaign-225911)
 
 ![](http://i1.piimg.com/567952/bca06245d1dcb254.jpg)
 
-特普朗团队数据负责人周二透露，曾使用第三方数据工具 HaystaqDNA 分析选情。此数据工具能够非常精准地预测美国人民如何投票。数据分析包含着大量元素，从民众对美国人道主义干预行为的支持情况，到人们对打车软件Uber和Lyft的看法。分析工具已是备战选举的重要一环。
+特朗普团队数据负责人周二透露，曾使用第三方数据工具 HaystaqDNA 分析选情。此数据工具能够非常精准地预测美国人民如何投票。数据分析包含着大量元素，从民众对美国人道主义干预行为的支持情况，到人们对打车软件Uber和Lyft的看法。分析工具已是备战选举的重要一环。
 
 <br>
 
