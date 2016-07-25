@@ -32,7 +32,7 @@ tags: [Bots, Robo, RavenPack]
 
 ### 机器人走上欧洲街头送快递
 
-##### 原文链接：[http://www.fastcoexist.com/3061622/robot-deliveries-have-already-begun-in-europe-and-the-uk/3](http://www.fastcoexist.com/3061622/robot-deliveries-have-already-begun-in-europe-and-the-uk/3)
+##### 原文链接：[Robot Deliveries Have Already Begun In Europe And The U.K.](http://www.fastcoexist.com/3061622/robot-deliveries-have-already-begun-in-europe-and-the-uk/3)
 
 ![](http://i4.piimg.com/567952/3cf7dfea57c868fe.png)
 
@@ -42,7 +42,7 @@ Starship 六轮机器人正式走上欧洲五城开始送快递。只需在App�
 
 ### 大数据分析公司 RavenPack 与金融媒体 Alliance News 成为合作伙伴
 
-##### 原文链接：[http://www.ibtimes.co.uk/big-data-analytics-firm-ravenpack-partners-alliance-news-1572309](http://www.ibtimes.co.uk/big-data-analytics-firm-ravenpack-partners-alliance-news-1572309)
+##### 原文链接：[Big data analytics firm RavenPack partners with Alliance News](http://www.ibtimes.co.uk/big-data-analytics-firm-ravenpack-partners-alliance-news-1572309)
 
 RavenPack 致力于通过分析公共信息为金融客户增加收益降低风险。Alliance News 长期专注于报道股票市场、经济事务和中央银行等金融领域内的突发新闻。日前，两者正式成为合作伙伴，为量化投资者和资产管理公司提供金融大数据分析服务。
 
