@@ -22,7 +22,7 @@ tags: [UBI, Driverless Cars, IoT, Fintech]
 
 ### 无人驾驶汽车正威胁车险行业
 
-##### 原文链接：[Driverless Cars Threaten to Crash Insurers’ Earnings](http://www.wsj.com/articles/driverless-cars-threaten-to-crash-insurers-earnings-1469542958)
+##### 原文链接：[Driverless Cars Threaten to Crash Insurers’ Earnings](https://www.linkedin.com/pulse/8486998825287751409)
 
 当无人驾驶技术越发成熟，行车安全大幅提高后，车险保费必然悬崖式下降。去年车险行业保费总计高达2000亿。然而随着无人驾驶的时代来临，咨询公司预测二三十年后，车险收益将大幅减少80%.面对新科技，保险行业如何生存呢？
 
