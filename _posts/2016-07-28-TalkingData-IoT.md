@@ -10,7 +10,7 @@ tags: [UBI, Driverless Cars, IoT, Fintech]
 
 ### 汽车保险公司如何察觉和使用司机的“驾驶指纹”
 
-##### 原文链接：[How Auto Insurers Detect and Use Your Driving ‘Fingerprint’](http://www.datanami.com/2016/07/26/auto-insurers-detect-use-driving-fingerprint/?utm_source=rss&utm_medium=rss&utm_campaign=auto-insurers-detect-use-driving-fingerprint)
+##### 原文链接：[How Auto Insurers Detect and Use Your Driving ‘Fingerprint’](http://www.datanami.com/2016/07/26/auto-insurers-detect-use-driving-fingerprint/)
 
 ![](http://i1.piimg.com/567952/b119d38ccba4fcad.jpg)
 
