@@ -10,7 +10,7 @@ tags: [Big Data, Samsung, Apple, AI]
 
 ### 2016 上半年欧洲大数据展会上的五大趋势
 
-##### 原文链接：[5 Trends Observed From H1 2016 European Big Data Events](http://www.dataiku.com/blog/2016/07/19/5-trends-observed-from-2016-european-big-data-events.html)
+##### 原文链接：[5 Trends Observed From Q2-Q3 2016 European Big Data Events](http://www.dataiku.com/blog/2016/07/19/trends-observed-from-q2-q3-2016-european-big-data-events.html)
 
 Dataiku 团队在上半年走访欧洲各大数据峰会（都柏林 Hadoop 大会、伦敦 Strata 大会等），总结了以下五大业界趋势：Streaming Analytics 愈发火热；应用变得比平台更重要；打造数据驱动的企业成为焦点；Hadoop 已死，Apache 称雄；打造实用的产品成为企业数据实验室的挑战。
 
