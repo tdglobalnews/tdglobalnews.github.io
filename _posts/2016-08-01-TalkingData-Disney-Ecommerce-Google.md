@@ -1,6 +1,6 @@
 ---
 title: 2016-08-01 TalkingData 锐眼看世界：统计分析、机器学习、数据可视化在反洗钱领域中的应用
-date: 2016-08-01 22:00:01 +08:00
+date: 2016-07-31 22:00:01 +08:00
 tags: [Anti-Money Laundering, Disney, Google, E-commerce]
 ---
 
